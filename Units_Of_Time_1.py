@@ -6,4 +6,4 @@ seconds=int(input("Enter the amount of seconds: "))
 #obtaining the seconds
 time_seconds=((days*86400)+(hours*3600)+(minutes*60)+seconds)
 #output
-print(time_seconds)     
+print("The time in seconds is",time_seconds)     

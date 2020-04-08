@@ -6,5 +6,5 @@ length=int(length)
 width=int(width)
 #finding the area
 area_one= length*width
-area_final=area_one//43560
+area_final=area_one/43560
 print("The area is",area_final,"in acres")

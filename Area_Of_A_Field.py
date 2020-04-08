@@ -1,6 +1,6 @@
 #obtaining length and width
-length = input("Enter your field's length in feet: "))
-width=input("Enter your field's width in feet: "))
+length = input("Enter your field's length in feet: ")
+width=input("Enter your field's width in feet: ")
 #converting length and width into int
 length=int(length)
 width=int(width)
